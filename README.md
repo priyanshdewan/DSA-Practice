@@ -19,6 +19,7 @@ Daily Problem solving
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -28,9 +29,14 @@ Daily Problem solving
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
