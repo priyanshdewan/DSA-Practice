@@ -1,9 +1,7 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        if(k==0 && nums[0] == 0){
-            return  0 ;
-        }
+      
         int stableIdx =  INT_MAX ;
         int maxi = nums[0] ;
         int mini ;
