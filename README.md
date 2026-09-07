@@ -7,6 +7,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0001-two-sum/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -24,6 +25,7 @@ Daily Problem solving
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
