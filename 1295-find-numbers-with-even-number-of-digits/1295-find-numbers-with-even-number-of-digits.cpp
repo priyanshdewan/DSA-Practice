@@ -6,7 +6,7 @@ public:
         for(int num : nums){
             int n= 10 ;
             int digits = 0 ; 
-            while(num){
+            while(num >0 ){
                 num= num/10 ;
                 digits++ ;
             }
