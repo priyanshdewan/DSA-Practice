@@ -5,11 +5,6 @@ public:
             return nums.size();
         }
         sort(nums.begin() , nums.end()) ;
-        map<int, int> mp ;
-        for(auto num : nums){
-            mp[num]++ ;
-
-        }
         int maxi = 0 ;
         int cur = nums[0] ;
         int len = 1; 
@@ -25,6 +20,7 @@ public:
                 maxi =max(len , maxi) ;
                 len =1  ; 
             }
+            
         }
         return maxi ; 
     }
