@@ -31,6 +31,7 @@ Daily Problem solving
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/priyanshdewan/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/priyanshdewan/DSA-Practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -84,4 +85,8 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/priyanshdewan/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
