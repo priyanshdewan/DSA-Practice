@@ -56,6 +56,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -96,4 +97,20 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
