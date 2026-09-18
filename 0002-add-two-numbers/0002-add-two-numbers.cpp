@@ -17,16 +17,14 @@ public:
         ListNode* head = new ListNode(-1) ;
         ListNode* cur = head ;
         while(temp1 || temp2){
-           int  sum = carry ;
+           int sum = carry ;
             if(temp1){
                 sum += temp1->val ;
                  temp1 = temp1->next ;
-
             }if(temp2){
                 sum+=temp2 ->val ;
                 temp2= temp2-> next ;
             }
-
             cur->next = new ListNode(sum%10) ;
             carry = sum /10 ;
             cur  = cur -> next ;
