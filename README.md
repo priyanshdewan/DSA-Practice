@@ -8,6 +8,7 @@ Daily Problem solving
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/priyanshdewan/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshdewan/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -45,6 +46,7 @@ Daily Problem solving
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -123,4 +125,8 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/priyanshdewan/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
