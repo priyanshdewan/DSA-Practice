@@ -129,4 +129,12 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/priyanshdewan/DSA-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/priyanshdewan/DSA-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
