@@ -92,6 +92,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ Daily Problem solving
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanshdewan/DSA-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
