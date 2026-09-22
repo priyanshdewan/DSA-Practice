@@ -62,6 +62,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Prefix Sum
@@ -92,6 +93,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [0061-rotate-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Sorting
