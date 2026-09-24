@@ -16,6 +16,7 @@ Daily Problem solving
 | [1109-corporate-flight-bookings](https://github.com/priyanshdewan/DSA-Practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshdewan/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -39,6 +40,7 @@ Daily Problem solving
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/priyanshdewan/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshdewan/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/priyanshdewan/DSA-Practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
