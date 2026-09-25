@@ -48,6 +48,7 @@ Daily Problem solving
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -94,6 +95,7 @@ Daily Problem solving
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
@@ -137,10 +139,15 @@ Daily Problem solving
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanshdewan/DSA-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanshdewan/DSA-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
