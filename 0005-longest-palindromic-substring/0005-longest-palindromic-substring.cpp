@@ -1,6 +1,6 @@
 class Solution {
 public:
-     int expand(string s, int left ,int right){
+     int expand(string &s, int left ,int right){
             while(left >=0  && right < s.size() && s[left] == s[right]){
                 left--  , right++ ; 
             }
