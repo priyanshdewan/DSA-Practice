@@ -10,6 +10,7 @@ Daily Problem solving
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/priyanshdewan/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshdewan/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/priyanshdewan/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -50,6 +51,7 @@ Daily Problem solving
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
