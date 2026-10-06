@@ -118,6 +118,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,11 +139,13 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanshdewan/DSA-Practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -152,4 +155,8 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshdewan/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
