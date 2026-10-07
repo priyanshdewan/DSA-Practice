@@ -159,4 +159,8 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/priyanshdewan/DSA-Practice/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 <!---LeetCode Topics End-->
