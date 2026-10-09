@@ -41,6 +41,7 @@ Daily Problem solving
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/priyanshdewan/DSA-Practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1323-maximum-69-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/1323-maximum-69-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshdewan/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/priyanshdewan/DSA-Practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -140,6 +141,7 @@ Daily Problem solving
 | ------- | ------- |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1323-maximum-69-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/1323-maximum-69-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
