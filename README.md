@@ -18,6 +18,7 @@ Daily Problem solving
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshdewan/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshdewan/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/priyanshdewan/DSA-Practice/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -107,6 +108,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshdewan/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Daily Problem solving
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1323-maximum-69-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/1323-maximum-69-number/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshdewan/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
