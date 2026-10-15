@@ -29,6 +29,7 @@ Daily Problem solving
 | [0001-two-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/priyanshdewan/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshdewan/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Database
@@ -71,6 +72,7 @@ Daily Problem solving
 | [0002-add-two-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ Daily Problem solving
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -116,6 +119,7 @@ Daily Problem solving
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
