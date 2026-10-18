@@ -14,6 +14,7 @@ Daily Problem solving
 | [0128-longest-consecutive-sequence](https://github.com/priyanshdewan/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/priyanshdewan/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/priyanshdewan/DSA-Practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -56,6 +57,7 @@ Daily Problem solving
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/priyanshdewan/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/0845-longest-mountain-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Daily Problem solving
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -107,6 +110,7 @@ Daily Problem solving
 | [0125-valid-palindrome](https://github.com/priyanshdewan/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshdewan/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/0845-longest-mountain-in-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
