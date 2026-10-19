@@ -17,6 +17,7 @@ Daily Problem solving
 | [0845-longest-mountain-in-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/priyanshdewan/DSA-Practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyanshdewan/DSA-Practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshdewan/DSA-Practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyanshdewan/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshdewan/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -97,6 +98,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/priyanshdewan/DSA-Practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshdewan/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
