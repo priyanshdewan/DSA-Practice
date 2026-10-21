@@ -10,6 +10,7 @@ Daily Problem solving
 | [0015-3sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0055-jump-game](https://github.com/priyanshdewan/DSA-Practice/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/priyanshdewan/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshdewan/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/priyanshdewan/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshdewan/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshdewan/DSA-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -131,6 +132,7 @@ Daily Problem solving
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshdewan/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyanshdewan/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshdewan/DSA-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Tree
@@ -179,4 +181,12 @@ Daily Problem solving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/priyanshdewan/DSA-Practice/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshdewan/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshdewan/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
